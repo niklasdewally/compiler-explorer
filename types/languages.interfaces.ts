@@ -53,6 +53,8 @@ export type LanguageKey =
     | 'd'
     | 'dart'
     | 'elixir'
+    | 'eprime'
+    | 'essence'
     | 'erlang'
     | 'fortran'
     | 'fsharp'

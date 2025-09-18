@@ -1,3 +1,17 @@
+# Essence Compiler explorer
+
+Compiler explorer for essence/eprime.
+
+## Installation
+
+1. install conjure-oxide and savilerow.
+2. edit `etc/config/essence.defaults.properties` and `etc/config/eprime.defaults.properties` to point to §sur Savilerow and conjure-oxide installations.
+3. run `make dev EXTRA_ARGS='--language essence --language eprime`
+
+
+---
+
+
 [![Build Status](https://github.com/compiler-explorer/compiler-explorer/workflows/Compiler%20Explorer/badge.svg)](https://github.com/compiler-explorer/compiler-explorer/actions?query=workflow%3A%22Compiler+Explorer%22)
 [![codecov](https://codecov.io/gh/compiler-explorer/compiler-explorer/branch/main/graph/badge.svg)](https://codecov.io/gh/compiler-explorer/compiler-explorer)
 

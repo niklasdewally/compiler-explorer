@@ -70,6 +70,7 @@ export {
     DotNetNativeAotCompiler,
 } from './dotnet.js';
 export {EDGCompiler} from './edg.js';
+export {ConjureOxideCompiler,SavileRowMinionCompiler,SavileRowSatCompiler,SavileRowSmtCompiler} from './essence.js';
 export {ElixirCompiler} from './elixir.js';
 export {ElixirAsmCompiler} from './elixirasm.js';
 export {EllccCompiler} from './ellcc.js';
